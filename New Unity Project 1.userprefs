@@ -1,0 +1,49 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MainMenu.cs">
+    <Files>
+      <File FileName="Assets\SCP.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyDatabase.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Eye_hit.cs" Line="1" Column="1" />
+      <File FileName="Assets\OpenEye.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameScene.cs" Line="16" Column="2" />
+      <File FileName="Assets\LoseLive.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameSceneLoading.cs" Line="3" Column="1" />
+      <File FileName="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" Line="1" Column="1" />
+      <File FileName="Assets\CustomGUITexture.cs" Line="1" Column="1" />
+      <File FileName="Assets\EyeCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyConfig.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\mousePOS.cs" Line="1" Column="1" />
+      <File FileName="Assets\Database.cs" Line="1" Column="1" />
+      <File FileName="Assets\Combo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Glass.cs" Line="1" Column="1" />
+      <File FileName="Assets\MainMenu.cs" Line="57" Column="1" />
+      <File FileName="Assets\Option.cs" Line="33" Column="16" />
+      <File FileName="Assets\RecodeReport.cs" Line="1" Column="1" />
+      <File FileName="Assets\RestartGameMenu.cs" Line="4" Column="1" />
+      <File FileName="Assets\RecodeRank.cs" Line="22" Column="3" />
+      <File FileName="Assets\Audio.cs" Line="1" Column="1" />
+      <File FileName="Assets\EyeAllClose.cs" Line="1" Column="1" />
+      <File FileName="Assets\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\ProductTeam.cs" Line="20" Column="3" />
+      <File FileName="Assets\Flash.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\pupu_hit.js" Line="1" Column="1" />
+      <File FileName="Assets\script\pupu.js" Line="1" Column="1" />
+      <File FileName="Assets\script\mousePOS.js" Line="1" Column="1" />
+      <File FileName="Assets\script\Eye.cs" Line="1" Column="1" />
+      <File FileName="Assets\launch.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\GUITexture.cs" line="55" column="1" />
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\MyDatabase.cs" line="110" column="1" />
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\RecodeReport.cs" line="17" column="28" />
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\script\Eye.cs" line="103" column="19" />
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\script\Eye.cs" line="98" column="1" />
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\RecodeRank.cs" line="11" column="1" />
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\MainMenu.cs" line="57" column="25" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
