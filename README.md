@@ -4,6 +4,7 @@
 # GravityConnect4 
 
 - GravityConnect4 is a game in Unity.
+- Win the game by four flags into a line.
 
 ## Description
 
@@ -16,9 +17,9 @@
 - Launch 4ConnectPoint.exe.
 
 ## Screentshots
-![](Pic/4ConnectPoint_Main.png)
-![](Pic/4ConnectPoint_01.png)
-![](Pic/4ConnectPoint_02.png)
-![](Pic/4ConnectPoint_03.png)
-![](Pic/4ConnectPoint_04.png)
-![](Pic/4ConnectPoint_05.png)
+![](Pic/4ConnectPoint_Main.jpg)
+![](Pic/4ConnectPoint_01.jpg)
+![](Pic/4ConnectPoint_02.jpg)
+![](Pic/4ConnectPoint_03.jpg)
+![](Pic/4ConnectPoint_04.jpg)
+![](Pic/4ConnectPoint_05.jpg)
